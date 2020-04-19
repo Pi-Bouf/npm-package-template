@@ -1,0 +1,11 @@
+node_modules/
+*.log
+*.tgz
+src/
+tests/
+dist/*
+tsconfig.json
+.idea
+.rts*
+
+!dist/*
