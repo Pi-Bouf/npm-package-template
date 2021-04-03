@@ -1,5 +1,4 @@
 language: javascript
 node_js:
+  - 15
   - 13
-  - 10
-  - 8
